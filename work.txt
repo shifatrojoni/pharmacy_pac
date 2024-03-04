@@ -1,0 +1,8 @@
+1*. migration table gula korben ami koyekta kore dichi
+2. create model
+3.create controller
+4*.view te create folder & file(resource folder e)
+
+like- create_form,edit_form, and table(for all features)
+
+5*.templating in react to yours project
